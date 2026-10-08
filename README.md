@@ -68,3 +68,6 @@ STUDENT-PERFORMANCE-ANALYSIS/
 ├── App2.py
 ├── requirements.txt
 └── README.md
+```
+## 🚀live demo
+https://student-performance-analysis-ht8dqndnvhffyj4sezryvt.streamlit.app/
